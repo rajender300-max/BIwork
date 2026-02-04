@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Rajender Kumar | Power BI Portfolio
-email: your-email@example.com
+email: rajender.mehra300@gmail.com
 description: Power BI, DAX, SQL, SSAS, and Analytics Projects
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -27,11 +27,10 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-theme: mmistakes/minimal-mistakes
+theme: pages-themes/minimal@v0.2.0
 plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-minimal_mistakes_skin: "default"
+  - jekyll-remote-theme
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
