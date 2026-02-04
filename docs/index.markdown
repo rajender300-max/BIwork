@@ -43,11 +43,11 @@ I specialize in building scalable dashboards, complex DAX measures, SQL-based mo
 ---
 
 ## 📄 Resume
-[Download Resume](assets/Rajender_Kumar_PowerBI_Resume.pdf)
+[Download Resume](docs\assets\Resume.docx)
 
 ---
 
 ## 📬 Contact
 - **LinkedIn**: https://linkedin.com/in/your-profile  
 - **GitHub**: https://github.com/rajendergkumar  
-- **Email**: rajender.g.kumar@email.com
+- **Email**: rajmad49@gmail.com
