@@ -26,9 +26,7 @@ When to use:
 YTD / QTD calculations
 Applying filters dynamically
 Time intelligence scenarios
-'''
----
-
+----
 ### 🔹 Filter()
 High Value Sales =
 CALCULATE (
@@ -37,4 +35,5 @@ CALCULATE (
         Sales,
         Sales[Amount] > 10000
     )
-)
+)```
+
