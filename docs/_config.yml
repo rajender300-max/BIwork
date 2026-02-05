@@ -51,3 +51,9 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+header_pages:
+  - about.md
+  - projects.md
+  - articles/PBI-functions.md
+  - contact.md
